@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.040cb251.css",
+    "main.js": "/static/js/main.026f0961.js",
+    "static/media/bkinctube.png": "/static/media/bkinctube.dd5095e66bf7923c0923.png",
+    "static/media/weathertracker.png": "/static/media/weathertracker.ac604950b63a91c1cccf.png",
+    "static/media/BKTube.png": "/static/media/BKTube.7bd40dd85c2e46eb7b1e.png",
+    "static/media/Woodmere.png": "/static/media/Woodmere.19c247c3c356f9b2a3ba.png",
+    "static/media/ModernApp.png": "/static/media/ModernApp.632a6536ee6e3d5586ef.png",
+    "static/media/chatGPT.png": "/static/media/chatGPT.7dd32a7c0a175b5dc8bd.png",
+    "static/media/api.png": "/static/media/api.e5cb4f3c402dd4860708.png",
+    "static/media/node.png": "/static/media/node.d980d9636ace07ad3dde.png",
+    "static/media/heroImage.jpg": "/static/media/heroImage.61a224b2c83f2119382f.jpg",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.040cb251.css.map": "/static/css/main.040cb251.css.map",
+    "main.026f0961.js.map": "/static/js/main.026f0961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.040cb251.css",
+    "static/js/main.026f0961.js"
+  ]
+}
