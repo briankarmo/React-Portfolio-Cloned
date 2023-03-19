@@ -39,33 +39,36 @@ const Experience = () => {
     },
     {
       id: 5,
-      src: tailwind,
-      title: "Tailwind",
-      style: "shadow-cyan-400",
-    },
-    {
-      id: 6,
       src: Vite,
       title: "Vite",
       style: "shadow-purple-600",
+     
+     
     },
     {
-      id: 7,
-      src: NodeJS,
-      title: "Node JS",
-      style: "shadow-green-500"
-    },
-    {
-      id: 8,
+      id: 6,
       src: github,
       title: "GitHub",
       style: "shadow-blue-400",
     },
     {
+      id: 7,
+      src: NodeJS,
+      title: "Node JS",
+      style: "shadow-green-600"
+    },
+    {
+      id: 8,
+      src: tailwind,
+      title: "Tailwind",
+      style: "shadow-cyan-400",
+    
+    },
+    {
       id: 9,
       src: api,
       title: "Application Programming Interface",
-      style: "shadow-red-600",  
+      style: "shadow-red-800",  
     },
     {
       id: 10,
@@ -79,11 +82,11 @@ const Experience = () => {
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-gray-800 to-black w-full h-fit"
+      className="bg-gradient-to-b from-gray-800 to-black pt-20 w-full pt-20 h-fit"
     >
-      <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
+      <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center pt-10 w-full h-full text-white">
         <div>
-          <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
+          <p className="text-4xl font-bold border-b-4 border-b-green-700 p-2 inline">
             Experience
           </p>
           <p className="py-6">I have worked with multiple technologies including, but not limited to</p>

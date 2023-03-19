@@ -40,12 +40,13 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Profile.pdf",
+      href: "/Brian Karmo.pdf",
       style: "rounded-br-md",
       download: true,
     },
   ];
 
+ 
   return (
     <div className="hidden lg:flex flex-col top-[35%] left-0 fixed">
       <ul>

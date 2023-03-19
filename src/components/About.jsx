@@ -4,9 +4,9 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-fit pt-20 bg-gradient-to-b from-gray-800 to-black text-white"
+      className="w-full h-fit bg-gradient-to-b pt-20 pb-10 from-gray-800 to-black text-white"
     >
-      <div className="max-w-screen-lg p-6 mx-auto flex flex-col justify-center w-full h-full">
+      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-fit">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About
@@ -20,7 +20,8 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-        "As a passionate learner, I am always driven to enhance and broaden my expertise in JavaScript development. My focus lies on various aspects such as front-end software development, frameworks, object-oriented programming, and DOM manipulation. Keeping up with the latest advancements in technology is my priority, and my unwavering dedication towards constant improvement, sets me apart as an exceptional problem solver!"
+          
+        "As an enthusiastic learner, I am always driven to enhance and broaden my expertise in JavaScript development. My focus encompasses various aspects of front-end software engineering! which includes frameworks, object-oriented programming, and DOM manipulation. My passion, and dedication, for staying on the cutting edge of technology, and my unwavering dedication towards constant improvement sets me apart as an exceptional problem solver!""
         </p>
       </div>
     </div>
